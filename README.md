@@ -1,7 +1,13 @@
 <h1 align="center">Hi 😁, I'm Salah</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SBerret3301&label=Profile%20views&color=0e75b6&style=flat" alt="SBerret3301" /></p>
+<div align="center">
+<a href="https://github.com/SBerret3301/github-profile-trophy"><h2>Profile Trophy</h2></a>
+<a href="https://github.com/SBerret3301/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=SBerret3301&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SBerret3301" alt="salah_eddine_berret" /></a> </p>
+
 
 
 <h3 align="center">Connect with me:</h3>
