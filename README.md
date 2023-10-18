@@ -1,4 +1,6 @@
-<h1 align="center">Hi 😁, I'm Salah</h1>
+<div align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuji+Hentaigana+Akari&size=19&pause=1000&color=1B9781&background=30FFBF00&random=false&width=435&lines=Hello+everyone%2C+Welcome+with+me+" alt="Typing SVG" /></a>
+</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SBerret3301&label=Profile%20views&color=0e75b6&style=flat" alt="SBerret3301" /></p>
 <div align="center">
 <a href="https://github.com/SBerret3301/github-profile-trophy"><h2>Profile Trophy</h2></a>
