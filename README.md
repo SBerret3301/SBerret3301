@@ -64,5 +64,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SBerret3301&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SBerret3301&" alt="salah_eddine_berret" /></p>
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SBerret3301&" alt="salah eddine berret" /></p>
 
